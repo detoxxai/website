@@ -26,7 +26,10 @@ export default function HeroHome() {
               <div className="mx-auto max-w-xs sm:flex sm:max-w-none sm:justify-center">
                 <div data-aos="fade-up" data-aos-delay={400}>
                   <a
-                    className="btn group mb-4 w-full ..." href="https://forms.gle/K6Pc9SiksLyP2FUj7" target="_blank" rel="noopener noreferrer"
+                    href="https://forms.gle/K6Pc9SiksLyP2FUj7"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="w-full mb-4 px-6 py-3 text-white font-semibold text-lg bg-pink-500 hover:bg-pink-600 rounded-xl transition duration-300 shadow-md text-center"
                   >
                     <span className="relative inline-flex items-center">
                       Join Waitlist
