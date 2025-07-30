@@ -1,6 +1,5 @@
 import VideoThumb from "@/public/images/hero-image-01.jpg";
 import ModalVideo from "@/components/modal-video";
-import Particles from "react-tsparticles";
 
 export default function HeroHome() {
   return (
@@ -8,7 +7,6 @@ export default function HeroHome() {
       <div className="mx-auto max-w-6xl px-4 sm:px-6">
         {/* Hero content */}
         <div className="py-12 md:py-20">
-          <Particles options={{ fullScreen: true, particles: { color: { value: "#ff69b4" } } }} />
           {/* Section header */}
           <div className="pb-12 text-center md:pb-20">
             <h1
