@@ -29,7 +29,7 @@ export default function HeroHome() {
                     href="https://forms.gle/K6Pc9SiksLyP2FUj7"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="w-full mb-4 px-6 py-3 text-white font-semibold text-lg bg-pink-500 hover:bg-pink-600 rounded-xl transition duration-300 shadow-md text-center"
+                    className="btn relative w-full mb-4 px-6 py-3 text-white font-semibold text-lg bg-pink-500 hover:bg-pink-600 rounded-xl transition duration-300 shadow-md text-center"
                   >
                     <span className="relative inline-flex items-center">
                       Join Waitlist
